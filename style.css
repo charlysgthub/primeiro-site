@@ -1,15 +1,26 @@
-body{
-    background-color: rgb(63, 197, 29);
-}
-
 h1{
-    font-size: 45px;
+
 }
 
-h2{
-    font-size: 40px;
+p {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 20px;
 }
-p{
-    font-size: 25px;
-    background-color: rgba(117, 230, 24, 0.616);
+
+.noticias{
+    background-color: rgb(246, 242, 249);
+    padding: 20px;
+}
+
+.contato{
+    background-color: rgb(246, 242, 249);
+    margin-top: 10px;
+    padding: 20px;
+}
+#esportes{
+    color: rgba(4, 129, 182, 0.815);
+    background-color: rgb(228, 232, 236);
+    padding: 18px;
 }
