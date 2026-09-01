@@ -24,3 +24,14 @@ p {
     background-color: rgb(228, 232, 236);
     padding: 18px;
 }
+
+a{
+    color: rgba(4, 129, 182, 0.815);
+    margin-top: 30px;
+    line-height: 30px;
+}
+
+a:hover{
+    background-color: rgba(0, 177, 253, 0.815);
+    padding: 10px;
+}
