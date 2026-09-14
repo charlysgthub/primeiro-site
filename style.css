@@ -35,3 +35,19 @@ a:hover{
     background-color: rgba(0, 177, 253, 0.815);
     padding: 10px;
 }
+
+img{
+    max-width: 50%;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-rigth: auto;
+    margin-top: 5%;
+    box-shadow: 1px 4px 15px 1px;
+
+}
+
+img:hover {
+    transform: transLateY(-8px)
+
+}
